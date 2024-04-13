@@ -7,3 +7,4 @@ In a world that can sometimes feel overwhelming, Pikachu Motivational Quotes aim
 
 https://haikerwalabhishek.github.io/Pikachu-motivational-quote/
 # Preview:
+<img src="https://github.com/haikerwalabhishek/Pikachu-motivational-quote/blob/main/pikachu.png" height=300px width=500px>
